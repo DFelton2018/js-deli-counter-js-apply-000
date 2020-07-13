@@ -24,4 +24,3 @@ for (var i = 0; i<line.length; i++) {
 
 return 'The line is currently: ' + nameAndNumber.join(', ');
 }
-//
